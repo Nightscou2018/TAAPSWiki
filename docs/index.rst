@@ -14,9 +14,9 @@ Getting Started
    :titlesonly:
    
    Home
-   Safety first
+   Safety-first
    Screenshots
-   Architecture, security implementation
+   Architecture,-security-implementation
    Glossary
 
 How to install AndroidAPS
@@ -27,8 +27,8 @@ How to install AndroidAPS
    :titlesonly:
 
    [Installing Android Studio](https://developer.android.com/studio/install.html)
-   Building APK
-   Update to new version
+   Building-APK
+   Update-to-new-version
 
 Configuration
 =============
@@ -37,9 +37,9 @@ Configuration
    :maxdepth: 5
    :titlesonly:
 
-   BG Source
+   BG-Source
    Nightscout
-   DanaR Insulin Pump
+   DanaR-Insulin-Pump
    Preferences
    Watchfaces
 
@@ -51,13 +51,13 @@ Usage
    :titlesonly:
 
    Objectives
-   Open APS features
-   Circadian Percentage Profile
-   Working with profiles in 1.5
-   SMS Commands
-   Tips and tricks
-   Accessing logfiles
-   Dev branch
+   Open-APS-features
+   Circadian-Percentage-Profile
+   Working-with-profiles-in 1.5
+   SMS-Commands
+   Tips-and-tricks
+   Accessing-logfiles
+   Dev-branch
 
 Sources
 =======
