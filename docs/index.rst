@@ -13,11 +13,11 @@ Getting Started
    :maxdepth: 5
    :titlesonly:
    
-   [Home]
-   [Safety first]
-   [Screenshots]
-   [Architecture, security implementation]
-   [Glossary]
+   Home
+   Safety first
+   Screenshots
+   Architecture, security implementation
+   Glossary
 
 How to install AndroidAPS
 =========================
@@ -27,8 +27,8 @@ How to install AndroidAPS
    :titlesonly:
 
    [Installing Android Studio](https://developer.android.com/studio/install.html)
-   [Building APK]
-   [Update to new version]
+   Building APK
+   Update to new version
 
 Configuration
 =============
@@ -37,11 +37,11 @@ Configuration
    :maxdepth: 5
    :titlesonly:
 
-   [BG Source]
-   [Nightscout]
-   [DanaR Insulin Pump]
-   [Preferences]
-   [Watchfaces]
+   BG Source
+   Nightscout
+   DanaR Insulin Pump
+   Preferences
+   Watchfaces
 
 Usage
 =====
@@ -50,14 +50,14 @@ Usage
    :maxdepth: 5
    :titlesonly:
 
-   [Objectives]
-   [Open APS features]
-   [Circadian Percentage Profile]
-   [Working with profiles in 1.5]
-   [SMS Commands]
-   [Tips and tricks]
-   [Accessing logfiles]
-   [Dev branch]
+   Objectives
+   Open APS features
+   Circadian Percentage Profile
+   Working with profiles in 1.5
+   SMS Commands
+   Tips and tricks
+   Accessing logfiles
+   Dev branch
 
 Sources
 =======
